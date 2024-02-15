@@ -1,0 +1,10 @@
+<html>
+<head>
+<link rel="stylesheet"href="font.css">
+</head>
+<body>
+<p class="center">my text with font -arial</p>
+<p class="center">my textwith font  -calibre</p>
+<p class="center">.my text with font -cooper</p>
+</body>
+</html>
